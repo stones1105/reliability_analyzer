@@ -1,0 +1,136 @@
+[
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI2.xlsx",
+    "vd_work": 3.63,
+    "target_years": 0.2,
+    "model_type": "1overV",
+    "device_points": {
+      "Vd=4.3V,Vg=1.75V|Idlist": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.1": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.2": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.1": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.1": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.3": 5
+    },
+    "timestamp": "2026-08-25T22:45:51.376101"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI2.xlsx",
+    "vd_work": 3.63,
+    "target_years": 0.2,
+    "model_type": "isub",
+    "device_points": {
+      "Vd=4.3V,Vg=1.75V|Idlist": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.1": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.2": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.1": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.1": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.3": 5
+    },
+    "timestamp": "2026-08-25T22:45:01.798251"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI2.xlsx",
+    "vd_work": 2.75,
+    "target_years": 0.2,
+    "model_type": "isub",
+    "device_points": {
+      "Vd=4.3V,Vg=1.75V|Idlist": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.1": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.2": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.1": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.1": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.3": 5
+    },
+    "timestamp": "2026-08-25T22:44:42.592142"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI2.xlsx",
+    "vd_work": 2.75,
+    "target_years": 0.2,
+    "model_type": "1overV",
+    "device_points": {
+      "Vd=4.3V,Vg=1.75V|Idlist": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.1": 5,
+      "Vd=4.3V,Vg=1.75V|Idlist.2": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.1": 5,
+      "Vd=4.5V,Vg=1.85V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.1": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.2": 5,
+      "Vd=4.7V,Vg=1.95V|Idlist.3": 5
+    },
+    "timestamp": "2026-08-25T22:44:01.244202"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI2.xlsx",
+    "vd_work": 1.1,
+    "target_years": 0.2,
+    "model_type": "isub",
+    "device_points": null,
+    "timestamp": "2026-08-19T14:07:27.490600"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI2.xlsx",
+    "vd_work": 1.1,
+    "target_years": 0.2,
+    "model_type": "1overV",
+    "device_points": null,
+    "timestamp": "2026-08-18T19:12:30.131617"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI.xlsx",
+    "vd_work": 3.63,
+    "target_years": 0.2,
+    "model_type": "isub",
+    "device_points": null,
+    "timestamp": "2026-08-15T14:21:52.674145"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI.xlsx",
+    "vd_work": 3.63,
+    "target_years": 0.2,
+    "model_type": "1overV",
+    "device_points": null,
+    "timestamp": "2026-08-15T13:35:21.524477"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI.xlsx",
+    "vd_work": 1.1,
+    "target_years": 3.63,
+    "model_type": "isub",
+    "device_points": null,
+    "timestamp": "2026-08-15T13:23:10.754831"
+  },
+  {
+    "test_type": "HCI",
+    "file_path": "C:/Users/蔡磊/Desktop/NHCI.xlsx",
+    "vd_work": 30.0,
+    "target_years": 0.2,
+    "model_type": "isub",
+    "device_points": null,
+    "timestamp": "2026-08-15T13:06:48.156100"
+  }
+]
